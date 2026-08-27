@@ -28,6 +28,10 @@ bin/
 
 *.DS_Store
 
+# kiro agent
+
+.kiro/
+
 # fabric
 
 run/
